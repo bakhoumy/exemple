@@ -1,0 +1,64 @@
+#nav
+{
+	background: #CCCCCC;
+	padding: 20px;
+	padding-top: 30;
+	text-transform: uppercase;
+}
+
+#header
+{
+	background: url("b1 jpg1");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	color: white;
+	height: 50vh;
+	text-align: CENTER;
+	padding-top:70px;
+	font-size: 40px;
+	text-transform: uppercase;
+}
+
+#nav p
+{
+   background: ;
+   width: 40%;
+   display: inline-block;
+
+}
+
+#NAV
+{
+	background: ;
+}
+
+#nav .logo
+{
+   color:red;
+   font-size: 22px;
+   width: 50%;
+  paddind-left:33px;
+}
+
+#nav .menu
+{
+   width: 50%;
+   float: right;
+   margin-top: 250px;
+}
+
+#nav .menu a
+{
+	font-size: 18px;
+	text-decoration: none;
+	margin-left: 10%;
+
+}
+#footer
+{
+	background-color: #00CC66;
+	padding: 30px;
+	color: white;
+	text-align: center;
+}
